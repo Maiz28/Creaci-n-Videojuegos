@@ -12,10 +12,11 @@
   * > Evidencia de la leccion 2: [Evidencia 2](https://github.com/Maiz28/Creacion-Videojuegos/blob/main/Lecciones/Evidencia/Evidencia%202.docx)
 * Lección 3
   * > Proyecto de lección 1: [Leccion 3](https://github.com/Maiz28/Creacion-Videojuegos/blob/main/Lecciones/Paquetes/Prototipo3.unitypackage)
-  * > Evidencia de la leccion 2: [Evidencia 2](https://github.com/Maiz28/Creacion-Videojuegos/blob/main/Lecciones/Evidencia/parte2%20Barron%20.pdf)
+  * > Evidencia de la leccion 3: [Evidencia 3](https://github.com/Maiz28/Creacion-Videojuegos/blob/main/Lecciones/Evidencia/Parte%203.pdf)
 * Lección 4
   * > Proyecto de lección 4 parte 1: [Leccion 4.1](https://github.com/Maiz28/Creacion-Videojuegos/blob/main/Lecciones/Paquetes/Prototipo4P1.unitypackage)
   *  > Proyecto de lección 4 parte 2: [Leccion 4.2](https://github.com/Maiz28/Creacion-Videojuegos/blob/main/Lecciones/Paquetes/Prototipo4P2.unitypackage)
+  * > Evidencia de la leccion 4: [Evidencia 4.1 y 4.2](https://github.com/Maiz28/Creacion-Videojuegos/blob/main/Lecciones/Evidencia/evidencia%204.1%20y%204.2.pdf)
 * Lección 5
   * > Proyecto de lección 5 parte 1: [Leccion 5.1](https://github.com/Maiz28/Creacion-Videojuegos/blob/main/Lecciones/Paquetes/Prototipo5P1.unitypackage)
   * > Proyecto de lección 5 parte 2: [Leccion 5.2](https://github.com/Maiz28/Creacion-Videojuegos/blob/main/Lecciones/Paquetes/Prototipo5P2.unitypackage)
